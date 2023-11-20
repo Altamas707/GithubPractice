@@ -6,7 +6,9 @@ public class GithubPractice {
 		System.out.println("github practice");
 		  
         //sdhfjds
-		//GitNew Push
+		// GitNew Push
+		// New Push
+		// Karnataka
 	}
 
 }
